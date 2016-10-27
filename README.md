@@ -1,2 +1,3 @@
 # sandbox
-playground
+
+Testing git from command line
